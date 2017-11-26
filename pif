@@ -4,3 +4,7 @@ Directement sur GITHUB?
 Je sais récupérer le fichier en local
 Je peux pousser les modifs.
 Mais je pas réussi à mettre à jour le dépot local
+------------------------------------------------
+à chaque fois que je fais une modifications sur un fichier
+* je fais un commit en indiquant quel fichier je veux commiter
+* il me demande de rajouter une commentaire
