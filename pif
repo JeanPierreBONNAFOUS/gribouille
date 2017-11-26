@@ -8,3 +8,7 @@ Mais je pas réussi à mettre à jour le dépot local
 à chaque fois que je fais une modifications sur un fichier
 * je fais un commit en indiquant quel fichier je veux commiter
 * il me demande de rajouter une commentaire
+++++++++++++++++++++++++++++++++++++++++++++
+Comment je reviens sur la version précédentes?
+Je viens de commit avec ces lignes et je veux revenir au fichier SANS ce qu'il y a dessous la ligne ++++
+
