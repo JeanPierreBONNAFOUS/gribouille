@@ -4,6 +4,14 @@
 - [x] Item
 - [x] Item
 - [ ] Item
+<<<<<<< HEAD
 
 Je viens de rajouter une branche,
 Dans laquelle je modifie ce fichier
+=======
+- [ ] Item
+- [x] DONE sur TEST
+- [x] Une image dans la branche test
+A SUIVRE
+- [ ] On installe un GIT avec visu QGIT
+>>>>>>> test
