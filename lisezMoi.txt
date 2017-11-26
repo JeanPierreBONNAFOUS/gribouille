@@ -7,3 +7,4 @@
 - [ ] Item
 - [x] DONE sur TEST
 - [x] Une image dans la branche test
+- [ ] On installe un GIT avec visu QGIT
