@@ -15,3 +15,7 @@ Dans laquelle je modifie ce fichier
 A SUIVRE
 - [ ] On installe un GIT avec visu QGIT
 >>>>>>> test
+La c'est une modification que je veux suivre
+"Git est sur RASPI" 
+Je viens de rajouter le fichier RASPI
+ligne supplémentaire
