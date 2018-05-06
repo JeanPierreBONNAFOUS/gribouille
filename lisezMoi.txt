@@ -19,3 +19,8 @@ La c'est une modification que je veux suivre
 "Git est sur RASPI" 
 Je viens de rajouter le fichier RASPI
 ligne supplémentaire
+
+Je suis en train de suivre le cours OC sur GIT
+J'ai un compte GIT et j'ai déjà crée un REPO
+Je vais commiter cette modification et pousser sur Github
+
